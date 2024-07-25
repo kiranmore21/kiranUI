@@ -1,2 +1,3 @@
 # kiranUI
-Login Functionality of OrangeHRM
+
+This is Kiran's UI repository, having first profound experience in git and GitHub.
